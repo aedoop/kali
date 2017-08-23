@@ -1,0 +1,6 @@
+[kali]
+10.0.220.220
+
+[kali:vars]
+ansible_ssh_user="root"
+ansible_ssh_pass="toor"
